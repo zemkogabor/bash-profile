@@ -15,7 +15,7 @@ Tested on Gnome terminal.
 1. Download Git bash prompt
 
 ```
-curl https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh -o ~/.bash/.git-prompt.bash
+curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh -o ~/.bash/git-prompt.sh
 ```
 
 2. Copy .bashrc
