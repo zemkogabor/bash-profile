@@ -12,7 +12,13 @@
 curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
 ```
 
-2. Copy .bash_profile
+2. Download git-prompt sh file
+
+```
+curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh -o ~/.git-prompt.sh
+```
+
+3. Copy .bash_profile
 
 ```
 cp .bash_profile ~/.bash_profile
