@@ -1,4 +1,4 @@
-# Linux bash profile
+# Bash profile (Gnome terminal)
 
 Tested on Gnome terminal.
 
@@ -21,6 +21,5 @@ curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-pro
 2. Copy .bashrc
 
 ```
-cp .bashrc ~/.bashrc
+curl https://raw.githubusercontent.com/zemkogabor/bash-profile/master/bash_gnome/.bashrc -o ~/.bashrc
 ```
-

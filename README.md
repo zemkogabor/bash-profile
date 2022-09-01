@@ -2,5 +2,5 @@
 
 ## How to use
 
-- See `mac` and `linux` Readme files
+- See subforders README.
 

@@ -1,4 +1,4 @@
-# MacOS bash profile
+# Bash profile
 
 ## Features
 - Current Git branch name
@@ -21,5 +21,5 @@ curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-pro
 3. Copy .bashrc
 
 ```
-curl https://raw.githubusercontent.com/zemkogabor/bash-profile/master/mac/.bash_profile -o ~/.bashrc
+curl https://raw.githubusercontent.com/zemkogabor/bash-profile/master/bash/.bashrc -o ~/.bashrc
 ```
