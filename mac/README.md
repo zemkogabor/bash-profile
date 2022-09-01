@@ -18,8 +18,8 @@ curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-com
 curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh -o ~/.git-prompt.sh
 ```
 
-3. Copy .bash_profile
+3. Copy .bashrc
 
 ```
-cp .bash_profile ~/.bash_profile
+curl https://raw.githubusercontent.com/zemkogabor/bash-profile/master/mac/.bash_profile -o ~/.bashrc
 ```
